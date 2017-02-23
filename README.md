@@ -1,0 +1,2 @@
+# Managing-State-Information
+Information about individual visits to a Web site is called state  information. HTTP was originally designed to be stateless, which means that Web browsers stored no data about pages viewed on previous visits to a Web site. Here you can see how I have maintained state, or store persistent data about a Web site visit, using hidden form fields, query strings, cookies, and sessions. When we maintain state, HTTP is said to be stateful.
